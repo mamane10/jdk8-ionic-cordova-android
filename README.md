@@ -1,0 +1,1 @@
+# jdk8-ionic-cordova-android
